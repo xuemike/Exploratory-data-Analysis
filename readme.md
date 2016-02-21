@@ -4,7 +4,7 @@
 
 In this project I plot the Global_active_power, Global_reactive_power, Voltage ~ date/time, etc .
 
-There is one R script "couse_project1.R" and generate three PNG file.
+There are three R scripts "plot1.R", "plot2.R" and "plot3.R" to generate the following three PNG files.
 
 
 * plot1.png is histgram of Global_active_power.
