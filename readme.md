@@ -1,6 +1,6 @@
----
-title: "Exploratory Data Analyse course project 1"
----
+
+** "Exploratory Data Analyse course project 1"
+
 
 In this project I plot the Global_active_power, Global_reactive_power, Voltage ~ date/time, etc .
 
